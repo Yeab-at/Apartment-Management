@@ -105,9 +105,10 @@ Maintenance Member : handles maintenance requests and record staff assistance gi
 
 Receptionist: manages tenant information, assign tenants to rooms, and handle lease cancellations.
 
+Finance: process tenant payments.
+
+
 ## ER Diagram
 <img width="1197" height="796" alt="image" src="https://github.com/user-attachments/assets/be1278c8-0b49-4026-a3c4-b267417e4bd4" />
 <img width="1101" height="653" alt="image" src="https://github.com/user-attachments/assets/14ca0aba-3b5a-42bc-a8d5-dd95c8e5b1f3" />
-
-Finance: process tenant payments.
 
